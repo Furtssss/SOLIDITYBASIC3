@@ -41,3 +41,5 @@ contract MQuizContract {
         totalSalary = hourlyRate * hoursWorked;
     }
 }
+
+//checked sir!
